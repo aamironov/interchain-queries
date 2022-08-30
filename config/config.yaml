@@ -4,7 +4,7 @@ chains:
     key: wallet
     chain-id: GAIA
     rpc-addr: http://127.0.0.1:23657
-    grpc-addr: http://127.0.0.1:23090
+    grpc-addr: http://127.0.0.1:23091
     account-prefix: cosmos
     keyring-backend: test
     gas-adjustment: 1.2
@@ -19,7 +19,7 @@ chains:
     key: wallet
     chain-id: STRIDE-TESTNET-4
     rpc-addr: http://127.0.0.1:28657
-    grpc-addr: http://127.0.0.1:28619
+    grpc-addr: http://127.0.0.1:28629
     account-prefix: stride
     keyring-backend: test
     gas-adjustment: 1.2
